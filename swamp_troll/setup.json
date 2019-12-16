@@ -43,6 +43,7 @@
 "target_monsters": 
 [
 	{"name":"Swamp Troll", "action":"follow", "loot":true},
+	{"name":"Feverish Citizen", "action":"follow", "loot":true}
 	{"name":"Marsh Stalker", "action":"follow", "loot":true},
 	{"name":"Swampling", "action":"follow", "loot":true},
 	{"name":"Rotworm", "action":"follow", "loot":true},
